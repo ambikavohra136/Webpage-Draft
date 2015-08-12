@@ -1,0 +1,65 @@
+body
+{
+background:#d1ffdd;
+}
+
+ul
+{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	margin-left:400px;
+	margin-bottom:0px;
+	} 
+
+ul	li 
+{
+	display:inline-block;
+	padding:0;
+	margin-left:0;
+}
+
+#one
+{
+width:200px;
+height:500px;
+background-color:#e3e1c7;
+}
+
+#two
+{
+width:280px;
+height:575px;
+background-color: #eff0d7;
+}
+
+
+#three
+{
+width:300px;
+height:400px;
+background-color: #f0dcaa
+}
+
+#moon
+{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	background-color: white;
+	margin-top:20px;
+	margin-left:20px;
+
+}
+
+#text p
+{
+position:relative;
+margin-top:100px;
+margin-left:250px;
+font-size:150px;
+font-family:Tahoma;
+color:black;
+font-weight:bold;
+}
